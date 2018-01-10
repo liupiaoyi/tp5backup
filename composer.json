@@ -1,0 +1,18 @@
+{
+    "name": "leruge/tp5backup",
+    "description": "这是一个thinkph5备份类",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dreamphp",
+            "email": "leruge@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "leruge\\": "src/"
+        }
+    }
+}
